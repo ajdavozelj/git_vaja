@@ -55,6 +55,7 @@ Author: Ajda <ajda.vozelj@gmail.com>
 Date:   Thu Jan 8 19:52:27 2026 +0100
 
     kaj smo delal
+:-)
 
 commit 38bce5b0a04c06e7ad1015b786338fbb44dec98c
 Author: Ajda <ajda.vozelj@gmail.com>
